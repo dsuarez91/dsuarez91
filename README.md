@@ -1,0 +1,2 @@
+- Hello, I’m Danny. I am currently learning and trying to better my skill in Python and Linux. 
+- I currently go to a technical college and majoring in Cyber Security, however taking a course in Python ignited a want to learn more and build more using Python.
